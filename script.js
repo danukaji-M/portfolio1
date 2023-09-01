@@ -1,4 +1,4 @@
-const textToType = "HELLO I AM A WEB DEVELOPER";
+const textToType = "Hi, i'm Name, WEB DEVELOPER";
 
 const typingSpeed = 80; // Adjust typing speed (in milliseconds) here
 
